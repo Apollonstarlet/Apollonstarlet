@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm a ApollonStarlet.</h1>
-<h3>I'm a Web/Mobile Developer and Project Manager with over 7 years of experience and I have specialized in completing lots of projects for IT consultancies, software houses, web development agencies, and IT departments and team work.</h3>
+<h3>I'm a Web/Mobile Developer and Project Manager with over 10 years of experience and I have specialized in completing lots of projects for IT consultancies, software houses, web development agencies, and IT departments and team work.</h3>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
